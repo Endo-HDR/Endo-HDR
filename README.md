@@ -46,7 +46,6 @@ The dataset provided in [Hamlyn](https://davidrecasens.github.io/EndoDepthAndMot
 │     ├── seq_1
 │     ├── seq_2
 │     ├── ...
-|     ├── ...
 ```
 
 
