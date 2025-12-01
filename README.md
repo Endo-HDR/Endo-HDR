@@ -4,7 +4,7 @@
 
 
 -------------------------------------------
-**Note:** The codebase is currently being organized and will be released soon.
+**Note:** The code is still being organized and will be released publicly soon.
 
 ## Environment
 Please follow the [3D-GS](https://github.com/graphdeco-inria/gaussian-splatting) and [4DGS](https://github.com/hustvl/4DGaussians) to install the relative packages.
